@@ -1,0 +1,1 @@
+# genpark-interactive-product-tour-qualification-dialogue-engine-skill\n\nConducts conversational qualification, dynamically tailoring step-by-step product walkthrough paths based on prospect pain points.\n\n100% Python Standard Library implementation with zero external dependencies.
