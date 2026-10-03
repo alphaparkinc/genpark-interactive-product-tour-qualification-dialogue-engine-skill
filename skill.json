@@ -1,0 +1,8 @@
+{
+  "name": "genpark-interactive-product-tour-qualification-dialogue-engine-skill",
+  "version": "1.0.0",
+  "description": "Conducts conversational qualification, dynamically tailoring step-by-step product walkthrough paths based on prospect pain points",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
